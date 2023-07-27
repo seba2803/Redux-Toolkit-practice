@@ -1,12 +1,13 @@
 import './App.css'
 import PostForm from './components/PostForm/PostForm'
-
 import PostsList from './components/PostsList/PostsList'
 
-const saludo = "Hola mundo"
 
 function App() {
 
+ const cele = "kshfkhrwuhnfuw"
+ const lucaa= " putooo";
+ 
   return (
     <div>
       <PostForm/>
